@@ -6,32 +6,33 @@ Election integrity has been a hot button topic regardless of political affiliati
 ### Election-Audit Results: 
 - There were 369,711 votes cast in this congressional election.
        <br>
- ![alt text](https://github.com/VinoSarran/Module2_VBA_Refactoring/blob/main/VBA_Challenge_2018.png?raw=true)
+ ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/TotalVotes_Output.PNG?raw=true)
         <br>
- ![alt text](https://github.com/VinoSarran/Module2_VBA_Refactoring/blob/main/VBA_Challenge_2018.png?raw=true)
+ ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/TotalVotes.PNG?raw=true)
  
 - As reference to auditors, the script will publish the sum of votes by location as well as its percentage of total votes.
        <br>
- ![alt text](https://github.com/VinoSarran/Module2_VBA_Refactoring/blob/main/VBA_Challenge_2018.png?raw=true)
+ ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/CountyResults.PNG?raw=true)
         <br>
- ![alt text](https://github.com/VinoSarran/Module2_VBA_Refactoring/blob/main/VBA_Challenge_2018.png?raw=true)
+ ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/CountyResults_Output.PNG?raw=true)
  
 - Denver had the largest turnout with 306,055 which equates to 82.8% of the total votes.  
        <br>
- ![alt text](https://github.com/VinoSarran/Module2_VBA_Refactoring/blob/main/VBA_Challenge_2018.png?raw=true)
+ ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/Large_County.PNG?raw=true)
         <br>
- ![alt text](https://github.com/VinoSarran/Module2_VBA_Refactoring/blob/main/VBA_Challenge_2018.png?raw=true)
+ ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/LargeCounty_Output.PNG?raw=true)
+ 
 - As reference to auditors, the script will publish the sum of votes by candidate as well as its percentage of total votes.
        <br>
- ![alt text](https://github.com/VinoSarran/Module2_VBA_Refactoring/blob/main/VBA_Challenge_2018.png?raw=true)
+ ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/CandResults.PNG?raw=true)
         <br>
  ![alt text](https://github.com/VinoSarran/Module2_VBA_Refactoring/blob/main/VBA_Challenge_2018.png?raw=true)
 
 - Diana DeGette won the election with 272,892 which equates to 73.8% of the total votes.  
        <br>
- ![alt text](https://github.com/VinoSarran/Module2_VBA_Refactoring/blob/main/VBA_Challenge_2018.png?raw=true)
+ ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/Winner_Output.PNG?raw=true)
         <br>
- ![alt text](https://github.com/VinoSarran/Module2_VBA_Refactoring/blob/main/VBA_Challenge_2018.png?raw=true)
+ ![alt text](https://raw.githubusercontent.com/VinoSarran/Module3_Python_Election/main/Winner.PNG)
 
 ### Summary:
 I strongly encourage the adoption of this script into standard practice.  The heart of this audit is to increase confidence in election results and expose potential anomalies.  I demonstrated the use case for this Python script but there are additional value-adds with just a few modifications.   This script could be used to report which candidate received the most votes in each county.  This could show that Diana DeGette won in Denver but another county preferred a different candidate.  This script could also be used to report more accurate depiction of turnout if total population by county was referenced.  By comparing vote counts to the local population, this could show that a less populated county actually had higher participation in the election than a more densely populated county.  Future audits may require this detail.  In addition, it would supply strategic campaign data for future elections.
