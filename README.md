@@ -8,12 +8,14 @@ Election integrity has been a hot button topic regardless of political affiliati
        <br>
  ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/TotalVotes_Output.PNG?raw=true)
         <br>
+       This is done by setting the variable = 0 and adding 1 for each record:        
  ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/TotalVotes.PNG?raw=true)
  
 - As reference to auditors, the script will publish the sum of votes by location as well as its percentage of total votes as evidenced in output:
        <br>
  ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/CountyResults_Output.PNG?raw=true)
        <br>
+       This is done by setting the variable = 0 in a dictionary and adding 1 for each county name until it changes. The Varable county_votes prints that value:  
  ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/CountyResults.PNG?raw=true)
 
  
