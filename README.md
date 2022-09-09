@@ -15,7 +15,11 @@ Election integrity has been a hot button topic regardless of political affiliati
        <br>
  ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/CountyResults_Output.PNG?raw=true)
        <br>
-       This is done by setting the variable = 0 in a dictionary and adding 1 for each county name until it changes. The Varable county_votes prints that value:  
+       This is done by setting the variable = 0 in a dictionary and adding 1 for each county name until it changes. 
+       <br>
+ ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/CountyResults2.PNG?raw=true)
+       <br>
+       The variable "county_votes" prints that value:  
  ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/CountyResults.PNG?raw=true)
 
  
@@ -23,13 +27,15 @@ Election integrity has been a hot button topic regardless of political affiliati
       <br>
  ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/LargeCounty_Output.PNG?raw=true)
        <br>
+       This is done by setting a variable = 0 and retaining the highest count unless a higher count comes along.  The operator > pulls the largest value and name:
+       <br>
  ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/Large_County.PNG?raw=true)
  
 - As reference to auditors, the script will publish the sum of votes by candidate as well as its percentage of total votes as evidenced in output:
-       
        <br>
- ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/CandResultsOut.PNG?raw=true)
+![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/CandResultsOut.PNG?raw=true)
        <br>
+       This logic resembles the logic from the previous step:
  ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/CandResults.PNG?raw=true)
 
 
@@ -37,6 +43,7 @@ Election integrity has been a hot button topic regardless of political affiliati
        <br>
  ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/Winner_Output.PNG?raw=true)
         <br>
+       This final step resembles the logic from the evaluation of the high turnout county above:  
  ![alt text](https://raw.githubusercontent.com/VinoSarran/Module3_Python_Election/main/Winner.PNG)
 
 ### Summary:
