@@ -26,7 +26,7 @@ Election integrity has been a hot button topic regardless of political affiliati
        <br>
  ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/CandResults.PNG?raw=true)
         <br>
- ![alt text](https://github.com/VinoSarran/Module2_VBA_Refactoring/blob/main/VBA_Challenge_2018.png?raw=true)
+ ![alt text](https://github.com/VinoSarran/Module3_Python_Election/blob/main/CandResultsOut.PNG?raw=true)
 
 - Diana DeGette won the election with 272,892 which equates to 73.8% of the total votes.  
        <br>
